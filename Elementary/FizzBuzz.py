@@ -1,21 +1,21 @@
 # -*- coding: utf-8 *-*
 
 def checkio(number):
-	"""
-		Function that returns:
-		- Fizz if the number is divisible by 3 and not by 5
-		- Buzz if the number is divisible by 5 and not by 3
-		- Fizz Buzz if the number is divisible by 3 and 5
-		- the input converted in string in all other cases
-	"""
-	if number % 5 == 0 and number % 3 == 0:
-		return "Fizz Buzz"
-	elif number % 5 == 0:
-		return "Buzz"
-	elif number % 3 == 0:
-		return "Fizz"
-	else:
-		return str(number)
+    """
+        Function that returns:
+        - Fizz if the number is divisible by 3 and not by 5
+        - Buzz if the number is divisible by 5 and not by 3
+        - Fizz Buzz if the number is divisible by 3 and 5
+        - the input converted in string in all other cases
+    """
+    if number % 5 == 0 and number % 3 == 0:
+        return "Fizz Buzz"
+    elif number % 5 == 0:
+        return "Buzz"
+    elif number % 3 == 0:
+        return "Fizz"
+    else:
+        return str(number)
 
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
