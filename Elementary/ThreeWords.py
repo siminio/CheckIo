@@ -5,17 +5,16 @@ def checkio(words):
 	"""
 		Returns True if there is a succession of three or more words.
 	"""
-    list_words = words.split(' ')
-    count = 0
-    for word in list_words:
-        if re.match("[A-Za-z]", word):
-            count += 1
-        else:
-            count = 0
-        if count > 2:
-            return True
-    
-    return False
+	list_words = words.split(' ')
+	count = 0
+	for word in list_words:
+		if re.match("[A-Za-z]", word):
+			count += 1
+		else:
+			count = 0
+		if count > 2:
+			return True
+	return False
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':

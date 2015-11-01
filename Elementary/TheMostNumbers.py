@@ -5,10 +5,10 @@ def checkio(*args):
 		Returns the difference between the two extrema of an array.
 		If the length of the array is inferior to 2, returns 0.
 	"""
-    if len(args) < 1:
-        return 0
-    else:
-        return max(args) - min(args)
+	if len(args) < 1:
+		return 0
+	else:
+		return max(args) - min(args)
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':

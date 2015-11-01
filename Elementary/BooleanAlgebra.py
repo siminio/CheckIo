@@ -6,8 +6,8 @@ def boolean(x, y, operation):
 	"""
 		Returns the result of the boolean operation on x and y.
 	"""
-    dict_operations = {"conjunction" : x and y, "disjunction" : x or y, "implication" : (x and y) or not x, "exclusive" : x != y, "equivalence" : x == y}
-    return dict_operations[operation]
+	dict_operations = {"conjunction" : x and y, "disjunction" : x or y, "implication" : (x and y) or not x, "exclusive" : x != y, "equivalence" : x == y}
+	return dict_operations[operation]
 
 if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
