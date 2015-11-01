@@ -4,7 +4,7 @@ def checkio(number):
     """
         Counts the number of 1 present in the binary form of the number.
     """
-    return bin(int(number)).count('1')
+    return bin(number).count('1')
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':
