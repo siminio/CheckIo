@@ -1,5 +1,5 @@
 # CheckIo
-CheckIo is a website that proposes problems to solve in Python. Everyone can give a review of the code of others.
+CheckIo is a website that proposes problems to solve in Python. Everyone can give a review of other people's codes.
 
 The different puzzles are spread in different islands:
 - Elementary: easy puzzles that allow to discover Python and its useful functions from the standard library
