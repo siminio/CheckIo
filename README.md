@@ -1,5 +1,6 @@
 # CheckIo
 CheckIo is a website that proposes problems to solve in Python. Everyone can give a review of other people's codes.
+My profile on CheckIo: <a href="http://www.checkio.org/user/nomis517/">here</a>
 
 The different puzzles are spread in different islands:
 - Elementary: easy puzzles that allow to discover Python and its useful functions from the standard library
@@ -9,6 +10,7 @@ The different puzzles are spread in different islands:
 
 The most upvoted publications are:
 - 4 upvotes: Pawn brotherhood in Home
+- 4 upvotes: Morse clock
 - 3 upvotes: Pangram in Elementary
 - 2 upvotes: Binary count in Elementary
 - 2 upvotes: Common words in Elementary
