@@ -9,10 +9,11 @@ The different puzzles are spread in different islands:
 - Scientific expeditions: puzzles that mix science and programming
 
 The most upvoted publications are:
+- 5 upvotes: Pangram in Elementary Island
+- 4 upvotes: Binary Count in Elementary Island
+- 4 upvotes: Monkey Typing in Elementary Island
 - 4 upvotes: Pawn brotherhood in Home
 - 4 upvotes: Morse clock
-- 3 upvotes: Pangram in Elementary
-- 2 upvotes: Binary count in Elementary
 - 2 upvotes: Common words in Elementary
 - 1 upvote: Non-unique elements in Home
  
