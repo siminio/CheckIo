@@ -10,11 +10,15 @@ The different puzzles are spread in different islands:
 
 The most upvoted publications are:
 - 5 upvotes: Pangram in Elementary Island
-- 4 upvotes: Binary Count in Elementary Island
-- 4 upvotes: Monkey Typing in Elementary Island
+- 4 upvotes: Binary Count in Elementary Island 
 - 4 upvotes: Pawn brotherhood in Home
-- 4 upvotes: Morse clock
-- 2 upvotes: Common words in Elementary
+- 4 upvotes: Morse clock in Scientific Expedition
+- 3 upvotes: Monkey Typing in Elementary Island
+- 3 upvotes: Network attack in Scientific Expedition
+- 3 upvotes: The square chest in Scientific Expedition
+- 3 upvotes: Days between in Elementary Island
+- 2 upvotes: Common words in Elementary Island
+- 2 upvotes: Count inversions in Elementary Island
 - 1 upvote: Non-unique elements in Home
  
 
