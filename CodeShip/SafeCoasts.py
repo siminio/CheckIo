@@ -62,8 +62,7 @@ def finish_map(regional_map):
     # First Mark all cells next to land as safe
     paint_recifs(regional_map)
     # Second mark cells where the ghost ship can go
-    for i in range(50):
-        paint_ghosts(regional_map)
+    paint_ghosts(regional_map)
     # Finally, mark all other undetermined cells as safe
     for i in range(len(regional_map)):
         for j in range(len(regional_map[0])):
